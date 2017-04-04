@@ -1,0 +1,18 @@
+{
+    "framework": "jasmine",
+    "libs": [],
+    "coverageFilters": [],
+    "scenarios": [
+        {
+            "libs": [],
+            "coverageFilters": [],
+            "sandbox": false,
+            "launch": false,
+            "globals": "*",
+            "directory": "UnitTests-Grid",
+            "name": "UnitTests-Grid",
+            "page": ""
+        }
+    ],
+    "launchAppWatch": true
+}
